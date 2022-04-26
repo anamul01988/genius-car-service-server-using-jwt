@@ -9,5 +9,6 @@
  * For each project one time
  * --------------------
  * 1.heroku create
- * 2.
+ * 2. heroku git update by git add , commit , push
+ * 3. git push heroku main
  */
